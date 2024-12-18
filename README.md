@@ -12,7 +12,6 @@ L'objectif était d'atteindre une accuracy d'au moins 91%. Différentes techniqu
            1     0.9194    0.9360    0.9277      1000
 
     accuracy                         0.9270      2000
-   macro avg     0.9271    0.9270    0.9270      2000
-weighted avg     0.9271    0.9270    0.9270      2000
+
 
 ![image](https://github.com/user-attachments/assets/64764415-f8db-49e8-baa0-d0139c03f56b)
